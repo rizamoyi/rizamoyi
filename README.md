@@ -2,8 +2,7 @@
 
 <!--
 **rizamoyi/rizamoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a JavaScript developer that focuses on front end frameworks such as React and Vue. I have a passion for Design Systems, Web accessibility and Server-less technologies. Continuous learning is my first priority as a JavaScript developer. Striving to write clean code with a passion for creative problem solving while learning new technologies.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
