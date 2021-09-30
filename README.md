@@ -4,7 +4,7 @@
 #### 🌱 I’m currently learning
 - Jamstack (JavaScript, APIs + Markup) and GraphQL
 #### 💬 Ask me about
-- JavaScript, React 
+- JavaScript, React , Node, Typescript.
 #### 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/samuel-moyi/)
 - [Twitter](https://twitter.com/iam_awsam)
