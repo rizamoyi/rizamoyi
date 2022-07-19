@@ -5,6 +5,6 @@
 - Web 3 and the fundamentals of blockchain development using Solidity. 
 #### 💬 Ask me about
 - JavaScript, React , Node, Typescript.
-#### 📫 How to reach me:
+#### 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/samuel-moyi/)
 - [Twitter](https://twitter.com/iam_awsam)
