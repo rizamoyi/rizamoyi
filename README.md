@@ -7,7 +7,6 @@ Software Developer
 I am a JavaScript developer who works on the frontend using React as well as the backend using Node. I have a passion for Design Systems, Web accessibility and Server-less technologies. Continuous learning is my first priority as a JavaScript developer.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [MyPortfolio](http://ztm.com)
 * ✉️  You can contact me at [samwelmoyi@gmail.com](mailto:samwelmoyi@gmail.com)
 * 🧠  I'm learning Solidity and Ethereum
 * 🤝  I'm open to collaborating on interesting projects
