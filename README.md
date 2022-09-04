@@ -1,7 +1,7 @@
 Hi 👋 My name is Samuel Kachisa
 ===============================
 
-Frontend Developer
+Software Developer
 ------------------
 
 I am a JavaScript developer who works on the frontend using React as well as the backend using Node. I have a passion for Design Systems, Web accessibility and Server-less technologies. Continuous learning is my first priority as a JavaScript developer.
