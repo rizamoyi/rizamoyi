@@ -1,4 +1,4 @@
-Hi 👋 My name is Samuel Kachisa
+Hi 👋 My name is Sam
 ===============================
 
 Software Developer
