@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
+Front End Developer passionate about front end development and tools. Keen problem solver with an ability to come up creative solutions while learning new technologies.
+
 ### Skills
 
 
